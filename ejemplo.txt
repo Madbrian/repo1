@@ -1,4 +1,3 @@
 hola, esto es un ejemplo para una clase
 esto es una modificación hecha por Erick
-Esta linea de texto lo escribió Brian Espinosa para la clase de Frameworks
-
+Esta linea de codigofuente lo texteó Brian Espinosa para la clase de Frameworks
